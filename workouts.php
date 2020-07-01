@@ -18,7 +18,7 @@ include('server.php');
             <div class="container">
                 <a href="index.php" class="brand-logo">Exercise Tracker</a>
                 <ul class="right hide-on-med-and-down">
-                    <li>Home</li>
+                    <li><a href="index.php">Home</a></li>
                 </ul>
                 <a href="#" data-target="responsive-menu" class="sidenav-trigger right">
                     <i class="material-icons">menu</i>

@@ -1,5 +1,5 @@
 <?php
-//details removed for privacy
+//details hidden for privacy
 
 try {
     $conn = new PDO("mysql: host={$host}; dbname={$db_name};", $username, $pwd);

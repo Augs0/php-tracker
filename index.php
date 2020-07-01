@@ -13,9 +13,9 @@
     <header>
         <nav class="nav-wrapper purple">
             <div class="container">
-                <a href="#" class="brand-logo">Exercise Tracker</a>
+                <a href="#" class="brand-logo left">Exercise Tracker</a>
                 <ul class="right hide-on-med-and-down">
-                    <li>Suggested workouts</li>
+                    <li><a href="workouts.php">Suggested workouts</a></li>
                 </ul>
                 <a href="#" data-target="responsive-menu" class="sidenav-trigger right">
                     <i class="material-icons">menu</i>
