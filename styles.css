@@ -1,0 +1,31 @@
+*{
+    box-sizing:border-box;
+}
+
+html, body{
+    padding:0;
+    margin:0;
+    text-align:center;
+}
+
+form{
+    margin-top:50px;
+}
+
+.wrapper{
+    min-width:200px;
+    max-width:500px;
+}
+
+.waves-effect.waves-yellow{
+    background-color:#fff59d ;
+}
+
+.btn-small{
+    margin:5px;
+}
+
+.yellow{
+    color:black;
+}
+
